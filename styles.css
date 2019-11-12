@@ -40,17 +40,21 @@ h1 {
 .turkey-left {
 	position:absolute;
 	left:10%;
-	top:10%;
+	top:9%;
 	border-radius:100%;
 	transition:.5s;
+	height:25%;
+	width:20%;
 }
 
 .turkey-right {
 	position:absolute;
 	right:10%;
-	top:10%;
+	top:9%;
 	border-radius:100%;
 	transition:.5s;
+	height:25%;
+	width:20%;
 }
 
 .turkey-left:hover {
