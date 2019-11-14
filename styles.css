@@ -12,12 +12,16 @@ body{
 	margin:0;
 	padding-bottom:8%;
 	padding-top:4%;
+	position:relative;
 	
 }
 
 h1 {
 	margin:0;
+	margin-left:35%;
+	margin-right:35%;
 	padding-top:3%;	
+	position:relative;
 }
 
 .first-row {
@@ -39,22 +43,24 @@ h1 {
 
 .turkey-left {
 	position:absolute;
+	display:inline-block;
 	left:10%;
-	top:9%;
+	top:25%;
 	border-radius:100%;
 	transition:.5s;
-	height:25%;
-	width:20%;
+	height:50%;
+	width:10%;
 }
 
 .turkey-right {
 	position:absolute;
+	
 	right:10%;
-	top:9%;
+	top:25%;
 	border-radius:100%;
 	transition:.5s;
-	height:25%;
-	width:20%;
+	height:50%;
+	width:10%;
 }
 
 .turkey-left:hover {
