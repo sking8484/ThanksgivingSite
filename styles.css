@@ -84,6 +84,15 @@ h1 {
 	
 }
 
+li{
+	transition:.3s;
+}
+
+li:hover{
+	background-color:#005542;
+	font-size:20px;
+	color:white;
+}
 
 
 
