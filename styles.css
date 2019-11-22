@@ -95,5 +95,25 @@ li:hover{
 }
 
 
+.food-pic {
+	width:55%;
+	height:85%;
+	transform:rotate(90deg);
+	margin:5%;
+
+}
+
+.second-row{
+
+	text-align:center;
+}
+
+.third-row {
+
+	margin-top:20%;
+	text-align:center;
+	margin-bottom:5%;
+}
+
 
 
